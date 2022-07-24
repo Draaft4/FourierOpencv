@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\draaf\Documents\8vo ciclo\vision\PracticaFourier\build\CMakeFiles\ed81f52819eb4bbd79e37b43b5650193\RUN_TESTS_force.rule">
+    <CustomBuild Include="C:\Users\draaf\Documents\8vo Ciclo\Vision\Practica Fourier\FourierOpencv\build\CMakeFiles\af9fb5fad53674075ad87c9bcda54227\RUN_TESTS_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{B3713E11-A8ED-3731-8C1D-3A679DA8287E}</UniqueIdentifier>
+      <UniqueIdentifier>{1B7FDA8C-196A-31C1-9E54-7924C610E7CA}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

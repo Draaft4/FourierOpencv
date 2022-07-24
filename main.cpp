@@ -44,7 +44,7 @@ int main(int, char**) {
 
     cout << "Máximo: " << maximo << " Idx: " << idx << endl;
 
-    drawContours(contornos, puntos, 784, Scalar(10,207,10), 1, 8, jerarquia);
+    drawContours(contornos, puntos, idx, Scalar(10,207,10), 1, 8, jerarquia);
 
 
     namedWindow("Imagen", WINDOW_AUTOSIZE);
@@ -52,7 +52,7 @@ int main(int, char**) {
     namedWindow("Canny", WINDOW_AUTOSIZE);
     namedWindow("Contornos", WINDOW_AUTOSIZE);
 
-    createTrackbar("Contorno (Idx)", "Imagen", &idx, puntos.size(), trackbarEvent, NULL);
+    createTrackbar("Contorno (Idx)", "Imagen", &idx, puntos.size()-1, trackbarEvent, NULL);
 
     imshow("Imagen", imagen);
     imshow("Gauss", imagenGauss);

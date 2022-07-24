@@ -4,14 +4,14 @@
 
 
 # Configuration directories and files
-SourceDirectory: C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier
-BuildDirectory: C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build
+SourceDirectory: C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv
+BuildDirectory: C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build
 
 # Where to place the cost data store
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: DESKTOP-53UQMK6
+Site: DESKTOP-SUNUELU
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
 BuildName: Win32-MSBuild
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier"
+ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv"
 MakeCommand: "C:\Program Files\CMake\bin\cmake.exe" --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
@@ -45,7 +45,7 @@ SVNOptions:
 SVNUpdateOptions: 
 
 # Git options
-GITCommand: 
+GITCommand: C:/Program Files/Git/cmd/git.exe
 GITInitSubmodules: 
 GITUpdateOptions: 
 GITUpdateCustom: 
@@ -58,9 +58,9 @@ P4UpdateOptions:
 P4UpdateCustom: 
 
 # Generic update command
-UpdateCommand: 
+UpdateCommand: C:/Program Files/Git/cmd/git.exe
 UpdateOptions: 
-UpdateType: 
+UpdateType: git
 
 # Compiler info
 Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x64/cl.exe
@@ -81,7 +81,7 @@ MemoryCheckCommandOptions:
 MemoryCheckSuppressionFile: 
 
 # Coverage
-CoverageCommand: C:/w64devkit/bin/gcov.exe
+CoverageCommand: C:/w64devkit-1.11.0/w64devkit/bin/gcov.exe
 CoverageExtraFlags: -l
 
 # Testing options

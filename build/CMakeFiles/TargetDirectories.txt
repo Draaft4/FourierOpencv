@@ -1,9 +1,9 @@
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/Experimental.dir
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/Nightly.dir
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/Continuous.dir
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/fourier.dir
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/PACKAGE.dir
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/Experimental.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/Nightly.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/Continuous.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/fourier.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/PACKAGE.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/ZERO_CHECK.dir

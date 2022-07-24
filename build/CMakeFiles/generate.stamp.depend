@@ -1,9 +1,4 @@
 # CMake generation dependency list for this directory.
-C:/OpenCV/opencv/build/x64/vc15/lib/OpenCVConfig-version.cmake
-C:/OpenCV/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
-C:/OpenCV/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
-C:/OpenCV/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
-C:/OpenCV/opencv/build/x64/vc15/lib/OpenCVModules.cmake
 C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCCompiler.cmake.in
 C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCCompilerABI.c
 C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake
@@ -106,8 +101,13 @@ C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake
 C:/Program Files/CMake/share/cmake-3.23/Templates/CPackConfig.cmake.in
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/CMakeLists.txt
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/3.23.2/CMakeCCompiler.cmake
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/3.23.2/CMakeRCCompiler.cmake
-C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/3.23.2/CMakeSystem.cmake
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/CMakeLists.txt
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/3.23.2/CMakeCCompiler.cmake
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/3.23.2/CMakeRCCompiler.cmake
+C:/Users/draaf/Documents/8vo Ciclo/Vision/Practica Fourier/FourierOpencv/build/CMakeFiles/3.23.2/CMakeSystem.cmake
+C:/opencv/opencv/build/x64/vc15/lib/OpenCVConfig-version.cmake
+C:/opencv/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+C:/opencv/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+C:/opencv/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+C:/opencv/opencv/build/x64/vc15/lib/OpenCVModules.cmake
