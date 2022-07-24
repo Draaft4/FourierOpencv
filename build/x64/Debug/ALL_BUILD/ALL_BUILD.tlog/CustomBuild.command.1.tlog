@@ -1,0 +1,10 @@
+^C:\USERS\DRAAF\DOCUMENTS\8VO CICLO\VISION\PRACTICAFOURIER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier" "-BC:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build" --check-stamp-file "C:/Users/draaf/Documents/8vo ciclo/vision/PracticaFourier/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
