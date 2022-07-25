@@ -136,13 +136,21 @@ int main(int, char **)
         TRANSFORMADA DE FOURIER UTILIZANDO FFTW3
     */
 
-   //Asignar espacios de memoria para la entrada y la salida
-    double complejo [distance.size()];
-    //fftw_complex in[sizeof(distancias)];
+    // Asignar espacios de memoria para la entrada y la salida
+    fftw_complex *out;
+    fftw_plan p;
+
+    out = (fftw_complex *)fftw_malloc(sizeof(fftw_complex) * distancias.size());
+
+    p = fftw_plan_dft_1d(distancias.size(), (fftw_complex *)distancias.data(), out, FFTW_FORWARD, FFTW_ESTIMATE);
+
+    fftw_execute(p);
+
+    fftw_destroy_plan(p);
+    fftw_free(out);
+
     waitKey(0);
 
     destroyAllWindows();
     return (0);
 }
-
-

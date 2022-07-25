@@ -7,8 +7,9 @@ find_package( OpenCV REQUIRED )
 include_directories( ${OpenCV_INCLUDE_DIRS} )
 include_directories("C:/fftw/")
 
-add_executable(fourier main.cpp)
 
+add_executable(fourier main.cpp)
+ 
 target_link_libraries( fourier ${OpenCV_LIBS} )
 
 set_property(TARGET fourier PROPERTY CXX_STANDARD 17)  
